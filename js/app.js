@@ -58,7 +58,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "../resources/idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
   text.innerHTML = "Knew it baby 😘";
-  yes.innerHTML = '<a href="https://askmyval.com/v/xGoJVRLZtaweiy3RvhlJ">Message for you</a>';// inside the " " put your social media profile link
+  yes.innerHTML = '<a href="https://askmyval.com/v/78xuGtwKXhqxA71pZjZA">Message for you My Love</a>';// inside the " " put your social media profile link
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
@@ -66,6 +66,7 @@ yes.addEventListener("click", () => {
     vid.style.display = "none";
   }, 9000);
 });
+
 
 
 
